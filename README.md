@@ -34,8 +34,3 @@ Este repositório contém meus estudos e projetos práticos com Databricks, foca
 
 ## Contato
 - GitHub: [lucasskuja](https://github.com/lucasskuja)
-- LinkedIn: [Seu LinkedIn aqui]
-
----
-
-*Este repositório é parte do meu portfólio de estudos em engenharia de dados.* 
